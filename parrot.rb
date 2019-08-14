@@ -1,3 +1,3 @@
 def parrot
-sound = "Squawk!"
+puts "Squawk!"
 end
