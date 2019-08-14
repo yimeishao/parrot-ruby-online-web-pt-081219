@@ -1,1 +1,2 @@
 def parrot
+puts "Squawk!"
